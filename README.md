@@ -8,7 +8,7 @@ $ python converter.py <excel_file_name> <excel_sheet_name> <output.json> <schema
 
 For example, to validate output of test.xls against schema.json, I will use following input
 ```sh
-    $ python test.xls test out.json schema.json
+$ python test.xls test out.json schema.json
 ```
 
 ### OUTPUT FORMAT:
