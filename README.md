@@ -1,5 +1,5 @@
 # xls_json_covert_validate
-This program first converts Excel file to JSON object, and then compares that object with valid schema. 
+This program first converts Excel file to JSON object, and then compares that object with valid schema. Use test files in Sample Test File folder to check.
 
 ### INPUT FORMAT:
 ```sh
